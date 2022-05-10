@@ -1,0 +1,31 @@
+.heading
+{
+width: 100%;
+text-align: left;
+
+}
+.heading h2{
+    display:inline;
+}
+
+.heading button{
+    float: right;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width:45%;
+}
+
+.modal-dialog
+{
+    width:85%;
+}
+
+h3{
+    background-color: black;
+    color: aqua;
+    line-height:2;
+    margin-bottom: 0px;
+}
